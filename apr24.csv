@@ -1,0 +1,1188 @@
+Market,Arrival Date,Arrivals (Tonnes),Variety,Minimum Price(Rs./Quintal),Maximum Price(Rs./Quintal),Modal Price(Rs./Quintal)
+Ambala Cantt.,4/2/2024,1.5,Other,1000,2000,1500
+Ambala Cantt.,4/4/2024,8,Other,1000,1300,1200
+Ambala Cantt.,4/6/2024,1.5,Other,1000,1300,1200
+Ambala Cantt.,4/7/2024,8.5,Other,1000,1300,1200
+Ambala Cantt.,4/9/2024,7.5,Other,1000,1300,1200
+Ambala Cantt.,4/11/2024,8.5,Other,1000,1300,1200
+Ambala Cantt.,4/12/2024,1.2,Other,1000,1300,1200
+Ambala Cantt.,4/17/2024,8.5,Other,800,1500,900
+Ambala Cantt.,4/18/2024,7.5,Other,800,1500,1200
+Ambala Cantt.,4/24/2024,8.4,Other,1200,1550,1500
+Ambala Cantt.,4/25/2024,8.5,Other,1000,1600,1500
+Ambala Cantt.,4/27/2024,8,Other,1000,1500,1200
+Ambala Cantt.,4/28/2024,8.5,Other,1000,1500,1200
+Ambala City(Subji Mandi),4/5/2024,14.5,Other,1500,3000,2000
+Ambala City(Subji Mandi),4/8/2024,13.45,Other,1500,3250,2000
+Bahadurgarh,4/1/2024,5,Other,2000,2500,2300
+Ballabhgarh,4/2/2024,8,Other,1200,1500,1300
+Ballabhgarh,4/3/2024,6,Other,1000,1500,1200
+Ballabhgarh,4/4/2024,4.6,Other,1000,1200,1000
+Ballabhgarh,4/6/2024,3.6,Other,1000,1400,1200
+Ballabhgarh,4/9/2024,9,Other,2000,2300,2000
+Ballabhgarh,4/12/2024,5.8,Other,3000,3500,3200
+Ballabhgarh,4/13/2024,4,Other,2000,2800,2500
+Ballabhgarh,4/15/2024,8.6,Other,1800,2200,2000
+Ballabhgarh,4/16/2024,3.2,Other,1200,1800,1500
+Ballabhgarh,4/17/2024,6.5,Other,1000,1500,1200
+Ballabhgarh,4/19/2024,4,Other,500,1000,800
+Ballabhgarh,4/20/2024,3,Other,1200,1500,1500
+Ballabhgarh,4/22/2024,8,Other,1200,1800,1500
+Ballabhgarh,4/23/2024,2.8,Other,1000,1400,1200
+Ballabhgarh,4/27/2024,4.5,Other,500,1500,1000
+Barara,4/3/2024,0.64,Other,1300,1400,1300
+Barara,4/4/2024,1.1,Other,1200,1600,1200
+Barara,4/5/2024,1.4,Other,1200,1800,1200
+Barara,4/8/2024,0.8,Other,1200,1800,1200
+Barara,4/9/2024,0.82,Other,1400,1500,1400
+Barara,4/10/2024,0.55,Other,1500,2000,1500
+Barara,4/11/2024,0.6,Other,1400,1500,1400
+Barara,4/12/2024,0.92,Other,1800,2000,1800
+Barara,4/13/2024,0.64,Other,1300,1800,1300
+Barara,4/15/2024,0.65,Other,1300,1500,1500
+Barara,4/16/2024,0.8,Other,1300,1500,1300
+Barara,4/17/2024,0.86,Other,1300,2000,1300
+Barara,4/18/2024,0.72,Other,1200,1800,1200
+Barara,4/19/2024,0.64,Other,1300,1600,1300
+Barara,4/20/2024,0.65,Other,1400,1600,1400
+Barara,4/22/2024,0.95,Other,1400,1600,1400
+Barara,4/23/2024,0.65,Other,1400,1800,1400
+Barara,4/24/2024,0.91,Other,1400,1500,1400
+Barara,4/25/2024,0.96,Other,1100,1400,1100
+Barara,4/26/2024,1.1,Other,1300,1500,1300
+Barara,4/27/2024,1.52,Other,1200,1600,1200
+Barara,4/29/2024,0.54,Other,1200,1500,1200
+Barara,4/30/2024,0.74,Other,1300,2000,1300
+Barwala,4/1/2024,11,Other,1600,2000,1800
+Barwala,4/2/2024,10,Other,1600,2000,1800
+Barwala,4/3/2024,10,Other,1400,1800,1600
+Barwala,4/4/2024,20,Other,1000,2000,1500
+Barwala,4/5/2024,21.5,Other,1000,2000,1500
+Barwala,4/6/2024,20,Other,1000,2000,1500
+Barwala,4/7/2024,16,Other,1000,2000,1500
+Barwala,4/8/2024,16,Other,1200,1800,1500
+Barwala,4/9/2024,14,Other,1000,2000,1500
+Barwala,4/11/2024,14,Other,1500,2000,1750
+Barwala,4/12/2024,15.2,Other,1500,2000,1750
+Barwala,4/13/2024,14,Other,1500,2000,1750
+Barwala,4/14/2024,11,Other,1500,1900,1700
+Barwala,4/15/2024,11,Other,1500,2000,1750
+Barwala,4/16/2024,6,Other,2000,2000,2000
+Barwala,4/17/2024,6,Other,2000,2000,2000
+Barwala,4/18/2024,5,Other,2000,2000,2000
+Barwala,4/19/2024,5,Other,2000,2000,2000
+Barwala,4/20/2024,4,Other,2000,2000,2000
+Barwala,4/21/2024,2,Other,2000,2000,2000
+Barwala,4/22/2024,1,Other,2000,2000,2000
+Barwala,4/23/2024,14.3,Other,2000,2000,2000
+Barwala,4/24/2024,11,Other,2000,2000,2000
+Barwala,4/25/2024,12,Other,2000,2000,2000
+Barwala,4/26/2024,13,Other,2000,2000,2000
+Barwala,4/27/2024,12,Other,2000,2000,2000
+Barwala,4/28/2024,12,Other,1600,2000,1800
+Barwala,4/29/2024,14.5,Other,1600,2000,1800
+Barwala,4/30/2024,12,Other,1600,2000,1800
+Barwala(Hisar),4/1/2024,4.4,Other,1500,2000,1800
+Barwala(Hisar),4/2/2024,2.9,Other,1500,2000,1800
+Barwala(Hisar),4/3/2024,2.4,Other,1200,2000,1800
+Barwala(Hisar),4/4/2024,3.2,Other,1500,2000,1800
+Barwala(Hisar),4/5/2024,2.3,Other,1500,2000,1800
+Barwala(Hisar),4/6/2024,2.4,Other,1500,2000,1800
+Barwala(Hisar),4/7/2024,0.5,Other,1500,2000,1800
+Barwala(Hisar),4/8/2024,1.1,Other,1500,2000,1700
+Barwala(Hisar),4/9/2024,2,Other,1200,2000,1800
+Barwala(Hisar),4/11/2024,2.9,Other,1200,2000,1500
+Barwala(Hisar),4/13/2024,0.9,Other,1000,2000,1500
+Barwala(Hisar),4/14/2024,1.2,Other,1000,1200,1100
+Barwala(Hisar),4/16/2024,1,Other,1500,2000,1800
+Barwala(Hisar),4/17/2024,2.2,Other,1400,2000,1800
+Barwala(Hisar),4/19/2024,2,Other,1500,2000,1800
+Barwala(Hisar),4/20/2024,3.8,Other,1000,1200,1100
+Barwala(Hisar),4/21/2024,2.3,Other,1500,2000,1800
+Barwala(Hisar),4/23/2024,2.3,Other,1500,2000,1800
+Barwala(Hisar),4/25/2024,2.7,Other,1500,2200,2000
+Barwala(Hisar),4/26/2024,2.4,Other,1500,2100,1800
+Barwala(Hisar),4/27/2024,1.4,Other,1500,2000,1800
+Barwala(Hisar),4/28/2024,2.5,Other,1500,2000,1800
+Barwala(Hisar),4/29/2024,2,Other,1700,2000,1800
+Bhiwani,4/3/2024,0.4,Tomato,2450,3500,2890
+Bhiwani,4/4/2024,0.7,Tomato,2450,3500,2890
+Bhiwani,4/5/2024,0.92,Tomato,2450,3580,3012
+Ch. Dadri,4/5/2024,5,Other,1400,1600,1500
+Ch. Dadri,4/6/2024,3.9,Other,1000,1500,1250
+Ch. Dadri,4/7/2024,2.5,Other,700,1500,1100
+Ch. Dadri,4/8/2024,4.9,Other,700,1500,1100
+Ch. Dadri,4/13/2024,3.5,Other,2400,2500,2450
+Ch. Dadri,4/18/2024,5.1,Other,700,2500,1600
+Chhachrauli,4/4/2024,0.1,Tomato,1800,2000,1800
+Chhachrauli,4/6/2024,0.1,Tomato,1600,1800,1600
+Chhachrauli,4/7/2024,0.05,Tomato,4000,4000,4000
+Chhachrauli,4/8/2024,0.15,Tomato,2000,2000,2000
+Chhachrauli,4/9/2024,0.15,Tomato,1900,3000,1900
+Chhachrauli,4/10/2024,0.1,Tomato,1900,3000,1900
+Chhachrauli,4/12/2024,0.1,Tomato,1900,2000,1900
+Chhachrauli,4/13/2024,0.1,Tomato,2000,3000,2500
+Chhachrauli,4/14/2024,0.15,Tomato,3000,3000,3000
+Chhachrauli,4/15/2024,0.1,Tomato,3000,3000,3000
+Chhachrauli,4/16/2024,0.1,Tomato,3000,3000,3000
+Chhachrauli,4/17/2024,0.15,Tomato,2800,3000,2800
+Chhachrauli,4/18/2024,0.15,Tomato,2800,3000,2800
+Chhachrauli,4/19/2024,0.1,Tomato,3000,3000,3000
+Chhachrauli,4/20/2024,0.1,Tomato,3000,3000,3000
+Chhachrauli,4/21/2024,0.2,Tomato,3000,3500,3000
+Chhachrauli,4/23/2024,0.1,Tomato,3000,3500,3000
+Chhachrauli,4/24/2024,0.1,Tomato,3000,3500,3000
+Chhachrauli,4/25/2024,0.15,Tomato,3200,3400,3200
+Chhachrauli,4/26/2024,0.1,Tomato,3200,3400,3200
+Chhachrauli,4/27/2024,0.2,Tomato,3200,3400,3200
+Chhachrauli,4/29/2024,0.2,Tomato,3200,3400,3200
+Chhachrauli,4/30/2024,0.1,Tomato,3400,3400,3400
+Dhand,4/1/2024,0.3,Deshi,2000,2300,2200
+Dhand,4/3/2024,0.4,Deshi,1800,2000,1900
+Dhand,4/4/2024,0.2,Deshi,2000,2200,2180
+Dhand,4/7/2024,0.3,Deshi,1500,2100,2000
+Dhand,4/8/2024,0.3,Deshi,1500,2100,2000
+Dhand,4/9/2024,0.2,Deshi,2000,2100,2080
+Dhand,4/10/2024,0.1,Deshi,2000,2100,2080
+Dhand,4/12/2024,0.1,Deshi,3000,3200,3150
+Dhand,4/13/2024,0.1,Deshi,2300,2500,2400
+Dhand,4/15/2024,0.1,Deshi,2000,2200,2150
+Dhand,4/16/2024,0.4,Deshi,2000,2600,2500
+Dhand,4/17/2024,0.4,Deshi,2000,2500,2400
+Dhand,4/18/2024,0.2,Deshi,2000,3000,2250
+Dhand,4/19/2024,0.2,Deshi,2000,2200,2180
+Dhand,4/20/2024,0.1,Deshi,3000,3200,3150
+Dhand,4/21/2024,0.1,Deshi,2400,2500,2480
+Dhand,4/22/2024,0.1,Deshi,2300,2500,2450
+Dhand,4/23/2024,0.2,Deshi,2000,2200,2170
+Dhand,4/24/2024,0.4,Deshi,2500,2600,2580
+Dhand,4/25/2024,0.4,Deshi,2500,2600,2580
+Dhand,4/26/2024,0.1,Deshi,2000,2200,2180
+Dhand,4/27/2024,0.4,Deshi,1500,1800,1700
+Dhand,4/29/2024,0.4,Deshi,1500,1800,1750
+Dharsul,4/1/2024,3,Deshi,1500,2100,1800
+Dharsul,4/9/2024,4,Deshi,1300,1500,1400
+Dharsul,4/11/2024,3,Deshi,1500,1900,1600
+Dharsul,4/12/2024,2,Deshi,1600,2000,1600
+Dharsul,4/13/2024,2,Deshi,1600,1800,1600
+Dharsul,4/16/2024,1,Deshi,1600,1600,1600
+Farukh Nagar,4/25/2024,1.5,Other,2000,2000,2000
+Farukh Nagar,4/26/2024,2.5,Other,2000,2000,2000
+Farukh Nagar,4/27/2024,2,Other,2000,2000,2000
+Farukh Nagar,4/28/2024,2.7,Other,1000,2000,1000
+Farukh Nagar,4/29/2024,3.4,Other,1000,2000,1000
+Farukh Nagar,4/30/2024,2.4,Other,1900,2500,1900
+Fatehabad,4/2/2024,12.1,Other,1500,2000,1700
+Fatehabad,4/4/2024,6.8,Other,1500,2000,1800
+Fatehabad,4/5/2024,6.8,Other,1500,2000,1800
+Fatehabad,4/11/2024,4.6,Other,1200,1200,1200
+Fatehabad,4/12/2024,4.6,Other,1200,2200,1500
+Fatehabad,4/14/2024,5.6,Other,2000,2000,2000
+Fatehabad,4/22/2024,5.5,Other,1000,1800,1500
+Fatehabad,4/23/2024,8.9,Other,2000,4000,3500
+Fatehabad,4/25/2024,5.6,Other,2000,4000,3500
+Fatehabad,4/26/2024,4.9,Other,2500,4500,3500
+FerozpurZirkha(Nagina),4/3/2024,2,Other,1400,1800,1600
+FerozpurZirkha(Nagina),4/4/2024,2.5,Other,1400,1800,1600
+FerozpurZirkha(Nagina),4/5/2024,2,Other,1400,1800,1600
+FerozpurZirkha(Nagina),4/6/2024,2,Other,1400,1800,1600
+FerozpurZirkha(Nagina),4/7/2024,1.5,Other,1400,1800,1600
+FerozpurZirkha(Nagina),4/8/2024,1.5,Other,1200,1600,1400
+FerozpurZirkha(Nagina),4/9/2024,1.5,Other,1200,1600,1400
+FerozpurZirkha(Nagina),4/10/2024,1.8,Other,1400,1800,1600
+FerozpurZirkha(Nagina),4/12/2024,1,Other,1200,1600,1400
+FerozpurZirkha(Nagina),4/13/2024,1.6,Other,1200,1600,1400
+FerozpurZirkha(Nagina),4/15/2024,1.5,Other,1400,1800,1600
+FerozpurZirkha(Nagina),4/16/2024,2,Other,1600,2000,1800
+FerozpurZirkha(Nagina),4/18/2024,1.5,Other,1400,1800,1600
+FerozpurZirkha(Nagina),4/19/2024,2,Other,1600,2000,1800
+FerozpurZirkha(Nagina),4/20/2024,2,Other,1200,1600,1400
+FerozpurZirkha(Nagina),4/21/2024,2,Other,1200,1600,1400
+FerozpurZirkha(Nagina),4/22/2024,2.2,Other,1200,1600,1400
+FerozpurZirkha(Nagina),4/23/2024,2.6,Other,1200,1600,1400
+FerozpurZirkha(Nagina),4/24/2024,2,Other,2000,2400,2200
+FerozpurZirkha(Nagina),4/26/2024,1.5,Other,1200,1600,1400
+FerozpurZirkha(Nagina),4/27/2024,2,Other,1000,1400,1200
+Ganaur,4/1/2024,6.65,Tomato,2000,2500,2200
+Ganaur,4/4/2024,1.95,Tomato,2000,2200,2100
+Ganaur,4/5/2024,3.8,Tomato,1600,2000,1800
+Ganaur,4/7/2024,0.8,Tomato,1500,2000,1800
+Ganaur,4/8/2024,1.9,Tomato,1500,2000,1800
+Ganaur,4/9/2024,1.6,Tomato,1500,2000,1800
+Ganaur,4/10/2024,0.8,Tomato,1500,1600,1500
+Ganaur,4/11/2024,1.8,Tomato,1500,2000,1800
+Ganaur,4/12/2024,0.9,Tomato,1500,2000,1800
+Ganaur,4/13/2024,1.8,Tomato,1500,2000,1800
+Ganaur,4/14/2024,2.7,Tomato,1500,2000,1800
+Ganaur,4/17/2024,1.3,Tomato,2000,2500,2200
+Ganaur,4/18/2024,2.2,Tomato,2000,2500,2200
+Ganaur,4/20/2024,3.3,Tomato,2000,2500,2200
+Ganaur,4/21/2024,3.2,Tomato,2000,2500,2200
+Ganaur,4/23/2024,1.9,Tomato,2500,2600,2500
+Ganaur,4/24/2024,2.35,Tomato,2000,2500,2200
+Ganaur,4/25/2024,2.8,Tomato,2000,2500,2200
+Ganaur,4/26/2024,3.05,Tomato,2000,2500,2200
+Ganaur,4/27/2024,3.45,Tomato,2000,2500,2200
+Ganaur,4/29/2024,3.2,Tomato,1500,2000,1800
+Ganaur,4/30/2024,0.8,Tomato,1600,2000,1800
+Gharaunda,4/1/2024,0.9,Other,1300,2200,2200
+Gharaunda,4/2/2024,1.9,Other,900,2200,2200
+Gharaunda,4/3/2024,2.2,Other,700,2000,2000
+Gharaunda,4/4/2024,1.1,Other,1000,2000,2000
+Gharaunda,4/5/2024,1.3,Other,1000,2500,2500
+Gharaunda,4/6/2024,1.7,Other,1000,2000,2000
+Gharaunda,4/8/2024,1.9,Other,800,2400,2400
+Gharaunda,4/9/2024,1.2,Other,800,2000,2000
+Gharaunda,4/10/2024,1.2,Other,1000,2000,2000
+Gharaunda,4/11/2024,2.1,Other,1200,2000,2000
+Gharaunda,4/12/2024,1.3,Other,1200,2000,2000
+Gharaunda,4/13/2024,1.4,Other,1000,2000,2000
+Gharaunda,4/15/2024,1.6,Other,1000,2200,2200
+Gharaunda,4/16/2024,1.4,Other,1200,2300,2300
+Gharaunda,4/17/2024,1.6,Other,1500,2200,2200
+Gharaunda,4/18/2024,1.3,Other,1500,2200,2200
+Gharaunda,4/19/2024,1.3,Other,1500,2200,2200
+Gharaunda,4/20/2024,1.3,Other,700,2500,2500
+Gharaunda,4/22/2024,1.6,Other,1500,2200,2200
+Gharaunda,4/23/2024,1.5,Other,1200,2700,2700
+Gharaunda,4/24/2024,1.3,Other,1800,2500,2500
+Gharaunda,4/25/2024,1.5,Other,1800,2000,2000
+Gharaunda,4/26/2024,1,Other,1800,2000,2000
+Gharaunda,4/27/2024,2.2,Other,1000,2200,2200
+Gharaunda,4/29/2024,2.2,Other,1000,2000,2000
+Gharaunda,4/30/2024,1.5,Other,1500,2000,2000
+Gohana,4/1/2024,8.6,Tomato,1200,2000,1600
+Gohana,4/4/2024,3.6,Tomato,1000,1500,1000
+Gohana,4/5/2024,4.6,Tomato,1000,1200,1100
+Gohana,4/6/2024,4.1,Tomato,1000,1500,1200
+Gohana,4/7/2024,2.7,Tomato,1200,2000,1600
+Gohana,4/8/2024,2.7,Tomato,1200,1500,1350
+Gohana,4/9/2024,3.4,Tomato,1200,2000,1600
+Gohana,4/10/2024,3.9,Tomato,1200,2000,1600
+Gohana,4/11/2024,3.3,Tomato,1500,2000,1750
+Gohana,4/12/2024,4.1,Tomato,1200,2000,1600
+Gohana,4/14/2024,3.9,Tomato,1200,2000,1600
+Gohana,4/15/2024,2.8,Tomato,1200,1800,1600
+Gohana,4/18/2024,2.8,Tomato,1500,2800,2000
+Gohana,4/19/2024,3.7,Tomato,1500,3000,2200
+Gohana,4/20/2024,5,Tomato,1500,3000,2000
+Gohana,4/21/2024,3.6,Tomato,1500,3000,2000
+Gohana,4/23/2024,3.8,Tomato,1500,2800,2000
+Gohana,4/24/2024,3.3,Tomato,1800,2800,2000
+Gohana,4/25/2024,4,Tomato,1500,3000,2500
+Gohana,4/26/2024,5.4,Tomato,1500,2000,1800
+Gohana,4/27/2024,6,Tomato,1500,2000,1800
+Gohana,4/29/2024,4.5,Tomato,1500,2000,1800
+Gohana,4/30/2024,4.9,Tomato,1500,2200,2000
+Gurgaon,4/1/2024,52.4,Other,1000,1400,1200
+Gurgaon,4/2/2024,51.6,Other,1000,2000,1500
+Gurgaon,4/3/2024,65.5,Other,1000,2000,1500
+Gurgaon,4/4/2024,102.1,Other,1000,2000,1500
+Gurgaon,4/6/2024,76.4,Other,1000,1200,1100
+Gurgaon,4/8/2024,65.5,Other,1000,1500,1250
+Gurgaon,4/9/2024,34.2,Other,1000,1400,1200
+Gurgaon,4/11/2024,46.6,Other,1000,1200,1100
+Gurgaon,4/12/2024,61.7,Other,1000,1400,1200
+Gurgaon,4/13/2024,45.3,Other,1000,1400,1200
+Gurgaon,4/19/2024,52.5,Other,1000,1500,1250
+Gurgaon,4/20/2024,52.5,Other,1000,1400,1200
+Gurgaon,4/21/2024,52.4,Other,1000,1500,1250
+Gurgaon,4/24/2024,56.5,Other,1000,1500,1250
+Gurgaon,4/25/2024,53.5,Other,1000,1400,1200
+Gurgaon,4/26/2024,58.1,Other,1000,1400,1200
+Gurgaon,4/27/2024,52.4,Other,1000,1400,1200
+Gurgaon,4/29/2024,52.5,Other,1000,1500,1250
+Gurgaon,4/30/2024,45.2,Other,1000,1500,1250
+Hansi,4/1/2024,8.3,Other,1500,2000,1800
+Hansi,4/2/2024,3.1,Other,1200,2000,1500
+Hansi,4/3/2024,4.5,Other,1200,2000,1500
+Hansi,4/4/2024,7.9,Other,1500,2000,1800
+Hansi,4/5/2024,8.7,Other,1400,2000,1600
+Hansi,4/7/2024,8.3,Other,1300,2000,1500
+Hansi,4/8/2024,4.1,Other,1400,2000,1600
+Hansi,4/9/2024,5.1,Other,1400,2000,1600
+Hansi,4/10/2024,4.8,Other,2000,2500,2300
+Hansi,4/11/2024,6.3,Other,2000,2500,2300
+Hansi,4/12/2024,7.8,Other,2000,2500,2300
+Hansi,4/13/2024,10.5,Other,2000,2500,2300
+Hansi,4/14/2024,9.2,Other,2000,2500,2300
+Hansi,4/17/2024,11.2,Other,2000,2300,2200
+Hansi,4/18/2024,12.2,Other,2000,2300,2200
+Hansi,4/19/2024,10.9,Other,2000,2000,2000
+Hansi,4/20/2024,7.4,Other,1500,2000,1800
+Hansi,4/21/2024,5.8,Other,1500,2000,1800
+Hansi,4/22/2024,6,Other,1500,2000,1800
+Hansi,4/23/2024,7.4,Other,1500,2000,1800
+Hansi,4/24/2024,9.7,Other,1500,2000,1800
+Hansi,4/25/2024,14.3,Other,2000,2000,2000
+Hansi,4/26/2024,15.3,Other,2000,2000,2000
+Hansi,4/28/2024,19.5,Other,1500,1800,1600
+Hansi,4/29/2024,10.4,Other,1300,2000,1500
+Hansi,4/30/2024,6.1,Other,1300,1500,1400
+Hissar,4/1/2024,15.3,Other,800,2000,1500
+Hissar,4/2/2024,26,Other,800,1800,1500
+Hissar,4/3/2024,8.5,Other,1000,1800,1500
+Hissar,4/4/2024,9.6,Other,1000,1800,1500
+Hissar,4/5/2024,27.8,Other,1000,2000,1600
+Hissar,4/6/2024,19.6,Other,1000,1500,1400
+Hissar,4/7/2024,10.3,Other,1000,1500,1200
+Hissar,4/9/2024,14.5,Other,1300,1800,1600
+Hissar,4/12/2024,18.2,Other,1200,2000,1800
+Hissar,4/13/2024,14.2,Other,1000,1800,1600
+Hissar,4/14/2024,17.7,Other,1200,2000,1800
+Hissar,4/15/2024,14.3,Other,1500,2000,1800
+Hissar,4/16/2024,18.1,Other,900,2000,1500
+Hissar,4/19/2024,8.4,Other,1200,1600,1500
+Hissar,4/20/2024,14.7,Other,1200,1800,1500
+Hissar,4/21/2024,23.8,Other,1000,1800,1600
+Hissar,4/22/2024,11.7,Other,1400,2000,1800
+Hissar,4/23/2024,8.7,Other,1400,1800,1600
+Hissar,4/24/2024,11.7,Other,1500,2000,1800
+Hissar,4/25/2024,26.6,Other,2400,2600,2600
+Hissar,4/26/2024,27.4,Other,1400,1800,1800
+Hissar,4/27/2024,23.8,Other,1000,1600,1500
+Hissar,4/28/2024,18.2,Other,1000,1400,1400
+Iamailabad,4/12/2024,0.02,Other,1000,1500,1250
+Iamailabad,4/23/2024,0.02,Other,1500,2560,2000
+Jagadhri,4/1/2024,2.07,Other,1200,1800,1500
+Jagadhri,4/2/2024,2,Other,1700,2100,1850
+Jagadhri,4/3/2024,2.01,Other,1100,1700,1400
+Jagadhri,4/4/2024,1.69,Other,1100,1500,1300
+Jagadhri,4/5/2024,1.96,Other,1000,1500,1250
+Jagadhri,4/6/2024,2.99,Other,900,1500,1200
+Jagadhri,4/9/2024,2.08,Other,1000,1500,1250
+Jagadhri,4/10/2024,1.58,Other,1200,1800,1500
+Jagadhri,4/11/2024,1.48,Other,1200,2000,1600
+Jagadhri,4/12/2024,2.5,Other,1000,1500,1250
+Jagadhri,4/13/2024,1.4,Other,1200,1800,1500
+Jagadhri,4/15/2024,2.5,Other,1000,1800,1500
+Jagadhri,4/16/2024,1.4,Other,1200,1800,1500
+Jagadhri,4/17/2024,1.4,Other,1200,1800,1500
+Jagadhri,4/18/2024,1,Other,1200,2000,1600
+Jagadhri,4/19/2024,0.82,Other,1200,2000,1600
+Jakhal,4/4/2024,0.3,Other,1800,2000,2000
+Jakhal,4/5/2024,0.2,Other,1700,2000,2000
+Jakhal,4/7/2024,0.1,Other,1700,1700,1700
+Jakhal,4/8/2024,0.3,Other,2000,2100,2100
+Jakhal,4/9/2024,0.1,Other,2000,2000,2000
+Jakhal,4/10/2024,0.3,Other,1800,2000,2000
+Jakhal,4/11/2024,0.1,Other,1700,1700,1700
+Jakhal,4/12/2024,0.2,Other,1600,1600,1600
+Jakhal,4/13/2024,0.1,Other,1700,1700,1700
+Jakhal,4/14/2024,0.3,Other,1600,1800,1800
+Jakhal,4/15/2024,0.3,Other,800,800,800
+Jakhal,4/17/2024,0.1,Other,1800,1800,1800
+Jakhal,4/18/2024,0.2,Other,1800,1900,1900
+Jakhal,4/19/2024,0.1,Other,1500,1500,1500
+Jakhal,4/20/2024,0.3,Other,1500,2000,2000
+Jakhal,4/21/2024,0.3,Other,1600,1800,1800
+Jakhal,4/22/2024,0.3,Other,1600,1800,1800
+Jakhal,4/23/2024,0.2,Other,1500,1600,1600
+Jakhal,4/24/2024,0.2,Other,1700,2500,2500
+Jakhal,4/25/2024,0.2,Other,3000,3200,3200
+Jakhal,4/26/2024,0.2,Other,2300,2500,2500
+Jakhal,4/27/2024,0.4,Other,1800,2200,2200
+Jakhal,4/29/2024,0.2,Other,2200,2300,2300
+Jakhal,4/30/2024,0.1,Other,2200,2200,2200
+Jhajjar,4/1/2024,4.9,Other,1800,2200,2000
+Jhajjar,4/2/2024,5.4,Other,1900,2100,2000
+Jhajjar,4/3/2024,3.2,Other,1900,2100,2000
+Jhajjar,4/4/2024,5.3,Other,1900,2100,2000
+Jhajjar,4/5/2024,7,Other,1900,2100,2000
+Jhajjar,4/6/2024,2.9,Other,1900,2100,2000
+Jhajjar,4/7/2024,1.4,Other,1900,2100,2000
+Jhajjar,4/8/2024,4,Other,2400,2600,2500
+Jhajjar,4/9/2024,2.4,Other,2400,2600,2500
+Jhajjar,4/10/2024,3.9,Other,3400,3700,3500
+Jhajjar,4/11/2024,2.4,Other,2800,3200,3000
+Jhajjar,4/12/2024,4.2,Other,4700,5200,5000
+Jhajjar,4/13/2024,8,Other,4800,5200,5000
+Jhajjar,4/14/2024,3.9,Other,2400,2600,2500
+Jhajjar,4/15/2024,2.7,Other,2400,2600,2500
+Jhajjar,4/16/2024,6.4,Other,2800,3200,3000
+Jhajjar,4/17/2024,6.8,Other,2400,2600,2500
+Jhajjar,4/18/2024,6.4,Other,2400,2600,2500
+Jhajjar,4/19/2024,3.7,Other,2400,2600,2500
+Jhajjar,4/20/2024,5.4,Other,2400,2600,2500
+Jhajjar,4/21/2024,7.6,Other,2400,2600,2500
+Jhajjar,4/22/2024,4.6,Other,2400,2600,2500
+Jhajjar,4/23/2024,4.8,Other,2400,2600,2500
+Jhajjar,4/24/2024,5.7,Other,2400,2600,2500
+Jhajjar,4/25/2024,6.1,Other,2400,2600,2500
+Jhajjar,4/26/2024,6.8,Other,2400,2600,2500
+Jhajjar,4/27/2024,6.2,Other,1800,2200,2000
+Jhajjar,4/28/2024,8.6,Other,1400,1600,1500
+Jhajjar,4/30/2024,3.2,Other,1900,2100,2000
+Jind,4/1/2024,10.6,Other,1200,2500,2000
+Jind,4/3/2024,10.6,Other,1000,2500,2000
+Jind,4/6/2024,10.6,Other,1200,2000,1850
+Jind,4/8/2024,7,Other,1200,2000,1800
+Jind,4/10/2024,9,Other,1500,2000,1800
+Jind,4/18/2024,10.7,Other,1500,2200,2000
+Jind,4/19/2024,10.3,Other,1500,2000,1800
+Jind,4/23/2024,9.6,Other,1500,2000,1800
+Jind,4/24/2024,8.2,Other,1500,2000,1800
+Jind,4/25/2024,10.3,Other,1500,2000,1800
+Jind,4/26/2024,9,Other,1500,2000,1800
+Jind,4/27/2024,150,Other,1500,2000,1850
+Jind,4/28/2024,13,Other,1200,2000,1800
+Jind,4/29/2024,15.5,Other,1200,2000,1850
+kalanwali,4/5/2024,0.9,Other,1800,2000,2000
+kalanwali,4/11/2024,0.3,Other,1500,1500,1500
+kalanwali,4/13/2024,0.2,Other,2000,2000,2000
+kalanwali,4/18/2024,0.8,Other,2000,2000,2000
+Kosli,4/5/2024,0.2,Other,1500,1500,1500
+Ladwa,4/2/2024,1.1,Tomato,2000,2500,2200
+Ladwa,4/3/2024,1,Tomato,1500,2000,1800
+Ladwa,4/5/2024,1.1,Tomato,1500,2000,1800
+Ladwa,4/6/2024,1.1,Tomato,1500,2000,1800
+Ladwa,4/7/2024,1.4,Tomato,1500,2500,2000
+Ladwa,4/8/2024,1.6,Tomato,1500,2000,1800
+Ladwa,4/9/2024,1.1,Tomato,1200,2000,1600
+Ladwa,4/10/2024,0.6,Tomato,1000,1500,1200
+Ladwa,4/11/2024,0.6,Tomato,1200,1500,1300
+Ladwa,4/12/2024,0.8,Tomato,2000,2500,2200
+Ladwa,4/13/2024,0.7,Tomato,2000,3000,2500
+Ladwa,4/14/2024,0.7,Tomato,2000,3000,2500
+Ladwa,4/15/2024,0.9,Tomato,2000,2500,2200
+Ladwa,4/16/2024,0.4,Tomato,2500,3000,2800
+Ladwa,4/17/2024,0.4,Tomato,1500,2000,1800
+Ladwa,4/18/2024,0.7,Tomato,1000,2000,1500
+Ladwa,4/19/2024,0.7,Local,1500,2500,2000
+Ladwa,4/20/2024,1.2,Tomato,1500,2000,1800
+Ladwa,4/21/2024,1.3,Tomato,1500,2000,1800
+Ladwa,4/23/2024,0.2,Tomato,1500,2000,1800
+Ladwa,4/24/2024,0.7,Tomato,2000,3000,2500
+Ladwa,4/25/2024,0.8,Tomato,1500,2500,2000
+Ladwa,4/26/2024,1.1,Tomato,1500,2500,2000
+Ladwa,4/27/2024,0.9,Tomato,1500,2000,1800
+Ladwa,4/29/2024,0.8,Tomato,1500,2000,1800
+Madlauda,4/1/2024,0.3,Other,1500,1500,1500
+Madlauda,4/2/2024,0.34,Other,600,2000,1300
+Madlauda,4/3/2024,0.4,Other,1500,2000,1750
+Madlauda,4/4/2024,0.4,Other,1200,1200,1200
+Madlauda,4/5/2024,0.34,Other,1500,1900,1700
+Madlauda,4/6/2024,0.35,Other,2000,2000,2000
+Madlauda,4/7/2024,0.15,Other,1000,1500,1250
+Madlauda,4/8/2024,0.35,Other,1500,1600,1500
+Madlauda,4/9/2024,0.4,Other,1000,1500,1250
+Madlauda,4/10/2024,0.2,Other,600,800,700
+Madlauda,4/11/2024,0.4,Other,600,600,600
+Madlauda,4/12/2024,0.4,Other,600,600,600
+Madlauda,4/13/2024,0.35,Other,1000,1500,1250
+Madlauda,4/14/2024,0.1,Other,1400,1400,1400
+Madlauda,4/15/2024,0.54,Other,1500,1500,1500
+Madlauda,4/16/2024,0.3,Other,1000,1500,1250
+Madlauda,4/17/2024,0.19,Other,1500,1600,1550
+Madlauda,4/18/2024,0.3,Other,1200,1500,1350
+Madlauda,4/20/2024,0.3,Other,1000,1000,1000
+Madlauda,4/21/2024,0.2,Other,1000,1000,1000
+Madlauda,4/22/2024,0.33,Other,1200,1500,1350
+Madlauda,4/23/2024,0.29,Other,1000,1500,1250
+Madlauda,4/24/2024,0.34,Other,1500,1800,1650
+Madlauda,4/25/2024,0.39,Other,1000,1500,1250
+Madlauda,4/26/2024,0.5,Other,1500,2000,1750
+Madlauda,4/27/2024,0.45,Other,1500,1500,1500
+Madlauda,4/29/2024,0.31,Other,1000,1200,1000
+Madlauda,4/30/2024,0.75,Other,1000,1200,1100
+Meham,4/1/2024,1.5,Deshi,2000,2000,2000
+Meham,4/4/2024,1,Deshi,1000,1500,1200
+Meham,4/5/2024,1.3,Deshi,1000,1500,1200
+Meham,4/6/2024,1.7,Deshi,1000,1500,1200
+Meham,4/8/2024,0.6,Deshi,800,1000,900
+Meham,4/9/2024,0.5,Deshi,1200,1600,1400
+Meham,4/11/2024,1,Deshi,1000,1500,1200
+Meham,4/12/2024,0.5,Deshi,1000,1500,1200
+Meham,4/13/2024,0.8,Deshi,1000,1500,1200
+Meham,4/15/2024,1.5,Deshi,1200,1500,1300
+Meham,4/16/2024,0.6,Deshi,1500,2000,1800
+Meham,4/18/2024,0.5,Deshi,1200,1200,1200
+Meham,4/23/2024,0.3,Deshi,1500,1500,1500
+Meham,4/26/2024,1,Deshi,1200,1500,1300
+Meham,4/27/2024,0.5,Deshi,1800,2000,1900
+Meham,4/29/2024,0.5,Deshi,2000,2000,2000
+Meham,4/30/2024,0.3,Deshi,1800,2000,1900
+Mohindergarh,4/5/2024,3,Tomato,1000,2000,1200
+Mohindergarh,4/6/2024,0.6,Tomato,700,1000,1000
+Mohindergarh,4/7/2024,2.5,Tomato,1200,1500,1500
+Mohindergarh,4/9/2024,1.5,Tomato,1500,2000,2000
+Mohindergarh,4/10/2024,2.76,Tomato,1500,2000,2000
+Mohindergarh,4/11/2024,3.5,Tomato,1500,2000,1500
+Mohindergarh,4/12/2024,4.1,Tomato,1500,2000,1800
+Mohindergarh,4/13/2024,4.3,Tomato,1500,2000,1800
+Mohindergarh,4/14/2024,3.2,Tomato,1400,2000,1800
+Mohindergarh,4/16/2024,5.8,Tomato,1200,1800,1500
+Mohindergarh,4/19/2024,6,Tomato,1000,1500,1200
+Mohindergarh,4/23/2024,4,Tomato,1200,1600,1500
+Mohindergarh,4/24/2024,3.5,Tomato,1500,2000,1800
+Mohindergarh,4/26/2024,9.1,Tomato,1200,1800,1500
+Mohindergarh,4/27/2024,7.1,Tomato,1000,1300,1200
+Mohindergarh,4/28/2024,1.8,Tomato,1000,1300,1000
+Mohindergarh,4/30/2024,4.1,Tomato,800,1200,1000
+Mustafabad,4/1/2024,0.1,Other,2000,2500,2200
+Mustafabad,4/2/2024,0.1,Other,2000,2500,2200
+Mustafabad,4/3/2024,0.16,Other,2000,2400,2400
+Mustafabad,4/4/2024,0.12,Other,2000,2500,2000
+Mustafabad,4/5/2024,0.1,Other,2000,2500,2000
+Mustafabad,4/6/2024,0.1,Other,2000,2500,2400
+Mustafabad,4/7/2024,0.1,Other,2000,2500,2200
+Mustafabad,4/9/2024,0.12,Other,2000,2500,2200
+Mustafabad,4/10/2024,0.1,Other,2000,2400,2200
+Mustafabad,4/12/2024,0.1,Other,2000,2500,2000
+Mustafabad,4/13/2024,0.1,Other,2000,2100,2100
+Mustafabad,4/15/2024,0.12,Other,2000,2500,2200
+Mustafabad,4/16/2024,0.2,Other,1800,2000,1800
+Mustafabad,4/17/2024,0.1,Other,2400,2500,2400
+Mustafabad,4/18/2024,0.22,Other,2100,2200,2100
+Mustafabad,4/19/2024,0.1,Other,2200,2400,2400
+Mustafabad,4/20/2024,0.12,Other,1600,1700,1700
+Mustafabad,4/21/2024,0.1,Other,2000,2500,2400
+Mustafabad,4/22/2024,0.25,Other,1800,2200,2000
+Mustafabad,4/23/2024,0.25,Other,1800,2200,2000
+Mustafabad,4/25/2024,0.15,Other,1800,2000,1900
+Mustafabad,4/27/2024,0.2,Other,1800,2200,2000
+Mustafabad,4/28/2024,0.2,Other,1800,2000,2000
+Naraingarh,4/1/2024,2.23,Tomato,1000,2000,1500
+Naraingarh,4/3/2024,2.15,Tomato,1000,2000,1400
+Naraingarh,4/4/2024,1.35,Tomato,1000,1500,1200
+Naraingarh,4/5/2024,1.97,Tomato,800,1500,1200
+Naraingarh,4/8/2024,2.61,Tomato,700,1200,1000
+Naraingarh,4/9/2024,2.11,Tomato,600,1500,1200
+Naraingarh,4/10/2024,1.97,Tomato,800,1500,1300
+Naraingarh,4/11/2024,1.69,Tomato,1000,2000,1600
+Naraingarh,4/12/2024,2.17,Tomato,1000,2000,1600
+Naraingarh,4/13/2024,2.59,Tomato,1200,2500,1800
+Naraingarh,4/15/2024,2.53,Tomato,1000,2200,1700
+Naraingarh,4/16/2024,1.58,Tomato,1500,2000,1800
+Naraingarh,4/17/2024,1.99,Tomato,1000,2000,1600
+Naraingarh,4/18/2024,2.47,Tomato,800,2500,1800
+Naraingarh,4/19/2024,2.2,Tomato,1200,2000,1700
+Naraingarh,4/20/2024,2.74,Tomato,500,1800,1500
+Naraingarh,4/22/2024,2.91,Tomato,800,2000,1700
+Naraingarh,4/23/2024,1.88,Tomato,1200,2000,1500
+Naraingarh,4/24/2024,1.32,Tomato,1800,2500,2000
+Naraingarh,4/25/2024,1.82,Tomato,1200,2000,1700
+Naraingarh,4/26/2024,1.91,Tomato,900,2000,1600
+Naraingarh,4/27/2024,2.96,Tomato,1000,2200,1700
+Naraingarh,4/29/2024,2.24,Tomato,1000,1500,1300
+Naraingarh,4/30/2024,2.93,Tomato,1000,1800,1500
+Narnaul,4/1/2024,4.2,Other,1500,2500,2000
+Narnaul,4/3/2024,4.3,Other,1800,2500,2000
+Narnaul,4/4/2024,3.7,Other,1500,2500,2000
+Narnaul,4/5/2024,4.3,Other,1500,2500,2000
+Narnaul,4/6/2024,3.2,Other,1500,2500,2000
+Narnaul,4/7/2024,2.8,Other,1500,2500,2000
+Narnaul,4/8/2024,1.8,Other,2000,2500,2500
+Narnaul,4/9/2024,4.5,Other,2000,2500,2500
+Narnaul,4/10/2024,4.2,Other,2000,2500,2500
+Narnaul,4/11/2024,5.2,Other,2000,3000,2500
+Narnaul,4/12/2024,3,Other,2000,3000,2500
+Narnaul,4/13/2024,5,Other,1500,3000,2500
+Narnaul,4/14/2024,4,Other,1500,3000,2500
+Narnaul,4/15/2024,4.9,Other,1500,3000,2500
+Narnaul,4/16/2024,6.5,Other,1500,3000,2500
+Narnaul,4/17/2024,2,Other,1500,2500,2000
+Narnaul,4/18/2024,5.6,Other,1500,2200,2000
+Narnaul,4/19/2024,3.2,Other,1500,2500,2000
+Narnaul,4/20/2024,4.4,Other,1000,2000,1500
+Narnaul,4/21/2024,3.2,Other,1000,2000,1500
+Narnaul,4/22/2024,2.2,Other,1000,2000,1500
+Narnaul,4/24/2024,2.5,Other,1500,3000,2500
+Narnaul,4/25/2024,4.5,Other,1500,2000,2000
+Narnaul,4/26/2024,3.3,Other,1500,2500,2000
+Narnaul,4/27/2024,4.2,Other,1000,2000,1500
+Narnaul,4/29/2024,3.8,Other,1000,2000,1500
+Narnaul,4/30/2024,5.6,Other,1000,1500,1500
+Narwana,4/1/2024,2.1,Other,1250,2000,1500
+Narwana,4/2/2024,1.9,Other,1000,2000,1500
+Narwana,4/3/2024,2.9,Other,1000,2000,1500
+Narwana,4/4/2024,7.7,Other,1000,1000,1000
+Narwana,4/6/2024,1.5,Other,800,2000,1500
+Narwana,4/7/2024,1.3,Other,750,2000,1500
+Narwana,4/8/2024,1.7,Other,1000,1500,1250
+Narwana,4/9/2024,0.9,Other,1000,2000,1500
+Narwana,4/11/2024,3.2,Other,1200,1400,1400
+Narwana,4/12/2024,1.8,Other,1200,1400,1400
+Narwana,4/14/2024,1.3,Other,2000,2000,2000
+Narwana,4/15/2024,1.5,Other,2000,2000,2000
+Narwana,4/16/2024,1.2,Other,2000,2000,2000
+Narwana,4/17/2024,0.8,Other,1500,2000,1800
+Narwana,4/19/2024,1.7,Other,1500,2000,1750
+Narwana,4/20/2024,1.3,Other,1500,2000,1800
+Narwana,4/23/2024,1.1,Other,1500,2000,1800
+Narwana,4/24/2024,0.4,Other,2500,2500,2500
+Narwana,4/25/2024,1.4,Other,2000,3000,2500
+Narwana,4/26/2024,2.4,Other,2000,2500,2250
+Narwana,4/27/2024,1.6,Other,2000,2000,2000
+Narwana,4/28/2024,1.3,Other,2000,2000,2000
+Narwana,4/29/2024,2.2,Other,1800,2000,1900
+"New Grain Market , Faridabad",4/3/2024,13.5,Deshi,1300,1500,1400
+"New Grain Market , Faridabad",4/8/2024,14.1,Deshi,1000,1500,1250
+"New Grain Market , Faridabad",4/11/2024,7.4,Deshi,2000,2500,2250
+"New Grain Market , Faridabad",4/12/2024,7,Deshi,2000,2500,2250
+"New Grain Market , Faridabad",4/13/2024,19,Deshi,2000,3500,2750
+"New Grain Market , Faridabad",4/19/2024,28,Deshi,1000,2000,1500
+"New Grain Market , Faridabad",4/20/2024,35.9,Deshi,1000,1500,1250
+"New Grain Market , Faridabad",4/21/2024,35.7,Deshi,800,1200,1150
+"New Grain Market , Faridabad",4/24/2024,38,Deshi,1200,2500,1850
+"New Grain Market , Faridabad",4/25/2024,33.9,Deshi,1000,2000,1500
+"New Grain Market , Faridabad",4/26/2024,33.9,Deshi,1000,2000,1500
+"New Grain Market , Panchkula",4/1/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/3/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/4/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/5/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/6/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/7/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/8/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/9/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/10/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/13/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/14/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/15/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/16/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/19/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/22/2024,1,Other,2000,3000,2500
+"New Grain Market , Panchkula",4/24/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/27/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/28/2024,1,Other,2500,3500,3000
+"New Grain Market , Panchkula",4/29/2024,1,Other,2500,3500,3000
+"New Grain Market(main), Karnal",4/2/2024,26.4,Other,400,2400,1400
+"New Grain Market(main), Karnal",4/3/2024,34,Other,500,2200,1350
+"New Grain Market(main), Karnal",4/4/2024,36.2,Other,500,2200,1350
+"New Grain Market(main), Karnal",4/6/2024,34.9,Other,500,2400,1450
+"New Grain Market(main), Karnal",4/7/2024,32.1,Other,400,2200,1300
+"New Grain Market(main), Karnal",4/8/2024,23.4,Other,500,2000,1250
+"New Grain Market(main), Karnal",4/9/2024,16.4,Other,500,2000,1250
+"New Grain Market(main), Karnal",4/10/2024,12.2,Other,400,2000,1200
+"New Grain Market(main), Karnal",4/11/2024,22.9,Other,500,2000,1250
+"New Grain Market(main), Karnal",4/13/2024,21.6,Other,600,2500,1550
+"New Grain Market(main), Karnal",4/14/2024,26.5,Other,600,2800,1700
+"New Grain Market(main), Karnal",4/15/2024,22.2,Other,600,2500,1650
+"New Grain Market(main), Karnal",4/16/2024,13.5,Other,600,2500,1550
+"New Grain Market(main), Karnal",4/17/2024,8,Other,800,2500,1650
+"New Grain Market(main), Karnal",4/18/2024,22.4,Other,600,2500,1550
+"New Grain Market(main), Karnal",4/20/2024,38.8,Other,800,2500,1650
+"New Grain Market(main), Karnal",4/21/2024,14.5,Other,800,2400,1600
+"New Grain Market(main), Karnal",4/22/2024,17,Other,800,2400,1600
+"New Grain Market(main), Karnal",4/23/2024,27,Other,800,2400,1600
+"New Grain Market(main), Karnal",4/24/2024,28.4,Other,800,2800,1800
+"New Grain Market(main), Karnal",4/25/2024,24.9,Other,800,2800,1800
+"New Grain Market(main), Karnal",4/27/2024,46.9,Other,1000,2600,1800
+"New Grain Market(main), Karnal",4/28/2024,26.2,Other,800,2000,1400
+"New Grain Market(main), Karnal",4/29/2024,24.4,Other,800,2000,1400
+"New Grain Market(main), Karnal",4/30/2024,34.7,Other,600,1800,1200
+Nuh,4/1/2024,1.7,Other,700,1000,1000
+Nuh,4/5/2024,1.1,Other,800,1000,1000
+Nuh,4/6/2024,0.8,Other,800,1000,1000
+Nuh,4/7/2024,1.2,Other,800,1200,1000
+Nuh,4/12/2024,1.1,Other,1000,1000,1000
+Nuh,4/13/2024,1.6,Other,800,1000,1000
+Nuh,4/14/2024,1.5,Other,800,1000,1000
+Nuh,4/15/2024,3.1,Other,1000,1500,1500
+Nuh,4/16/2024,1.8,Other,800,1000,1000
+Nuh,4/18/2024,1.5,Other,500,1000,800
+Nuh,4/19/2024,1.5,Other,700,1000,800
+Nuh,4/20/2024,1.6,Other,700,1000,800
+Nuh,4/21/2024,2,Other,700,800,800
+Nuh,4/22/2024,1,Other,700,800,800
+Nuh,4/23/2024,1.4,Other,700,1000,800
+Nuh,4/25/2024,0.5,Other,800,1000,800
+Nuh,4/26/2024,1.3,Other,700,1000,800
+Nuh,4/27/2024,1.6,Other,700,800,800
+Nuh,4/28/2024,2.6,Other,600,800,600
+Palwal,4/28/2024,5.1,Tomato,1500,3000,2250
+Palwal,4/29/2024,6.9,Tomato,1500,3000,2250
+Palwal,4/30/2024,3.4,Tomato,1200,1400,1300
+Panipat,4/2/2024,25.1,Other,1000,1400,1200
+Panipat,4/3/2024,35,Other,1000,1500,1250
+Panipat,4/4/2024,26.9,Other,1200,1400,1300
+Panipat,4/7/2024,15.9,Other,1200,1600,1400
+Panipat,4/9/2024,26,Other,1200,1600,1400
+Panipat,4/10/2024,19.6,Other,1400,1800,1600
+Panipat,4/11/2024,28,Other,1500,1700,1600
+Panipat,4/12/2024,25.7,Other,1500,1700,1600
+Panipat,4/13/2024,25.6,Other,1300,1500,1400
+Panipat,4/16/2024,26.3,Other,1500,1900,1700
+Panipat,4/17/2024,20.7,Other,1200,1400,1300
+Panipat,4/19/2024,25,Other,1300,1500,1400
+Panipat,4/20/2024,19.6,Other,1300,1500,1400
+Panipat,4/23/2024,32.6,Other,1200,1400,1300
+Panipat,4/24/2024,33.3,Other,1200,1400,1300
+Panipat,4/25/2024,25.9,Other,1000,1400,1200
+Panipat,4/26/2024,39.1,Other,1000,1800,1400
+Panipat,4/28/2024,29.6,Other,1200,1400,1300
+Panipat,4/29/2024,45.3,Other,800,1200,1000
+Panipat,4/30/2024,20.8,Other,800,1000,900
+Pataudi,4/1/2024,3.8,Other,2000,2300,2100
+Pehowa,4/3/2024,0.2,Other,1650,1950,1850
+Pehowa,4/4/2024,0.2,Other,600,960,900
+Pehowa,4/5/2024,0.2,Other,1650,1658,1654
+Pehowa,4/9/2024,0.2,Other,600,950,680
+Pehowa,4/10/2024,0.2,Other,1600,1750,1650
+Pehowa,4/12/2024,0.2,Other,600,900,800
+Pehowa,4/14/2024,0.2,Other,1500,1600,1600
+Pehowa,4/15/2024,0.2,Other,1600,1600,1600
+Pehowa,4/16/2024,2.2,Other,1600,1900,1800
+Pehowa,4/18/2024,0.2,Other,1500,1785,1690
+Pehowa,4/19/2024,0.2,Other,1600,2100,1900
+Pehowa,4/20/2024,0.2,Other,1560,1902,1850
+Pehowa,4/22/2024,0.2,Other,1600,1600,1600
+Pehowa,4/23/2024,0.3,Other,1546,1752,1650
+Pehowa,4/24/2024,0.3,Other,1600,1600,1600
+Pehowa,4/25/2024,0.2,Other,1500,1652,1500
+Pehowa,4/26/2024,0.2,Other,600,900,800
+Pehowa,4/30/2024,0.2,Other,1600,1890,1860
+Pundri,4/1/2024,1.66,Other,1300,1500,1400
+Pundri,4/3/2024,0.45,Other,1400,1500,1450
+Pundri,4/4/2024,0.34,Other,1200,1500,1350
+Pundri,4/5/2024,1.52,Other,1300,1400,1350
+Pundri,4/8/2024,0.54,Other,1300,1400,1350
+Pundri,4/9/2024,0.34,Other,600,700,650
+Pundri,4/10/2024,1.09,Other,1000,1500,1250
+Pundri,4/11/2024,0.4,Other,1000,1100,1050
+Pundri,4/12/2024,0.83,Other,1900,2000,1950
+Pundri,4/14/2024,0.3,Other,1000,1100,1050
+Pundri,4/15/2024,0.82,Other,1300,1500,1400
+Pundri,4/16/2024,0.84,Other,1200,1400,1300
+Pundri,4/17/2024,0.86,Other,1200,1400,1300
+Pundri,4/19/2024,0.47,Other,2400,2500,2450
+Pundri,4/20/2024,1.5,Other,1300,1400,1350
+Pundri,4/21/2024,0.5,Other,1200,1500,1350
+Pundri,4/22/2024,0.52,Other,800,1200,1000
+Pundri,4/24/2024,0.6,Other,900,1100,1000
+Pundri,4/25/2024,0.5,Other,800,1000,900
+Pundri,4/26/2024,0.86,Other,1200,1500,1350
+Pundri,4/27/2024,0.6,Other,1200,1400,1300
+Pundri,4/28/2024,1.05,Other,1900,2000,1950
+Pundri,4/29/2024,0.68,Other,1100,1400,1250
+Punhana,4/1/2024,0.9,Other,2000,2000,2000
+Punhana,4/3/2024,3.5,Other,2000,2000,2000
+Punhana,4/4/2024,3.5,Other,2000,2000,2000
+Punhana,4/5/2024,0.9,Other,2000,2000,2000
+Punhana,4/6/2024,2.3,Other,2000,2000,2000
+Punhana,4/8/2024,1.5,Other,2000,2000,2000
+Punhana,4/9/2024,2.2,Other,2500,3000,2800
+Punhana,4/10/2024,2,Other,2500,3000,2800
+Punhana,4/13/2024,3,Other,2500,2500,2500
+Punhana,4/14/2024,1.9,Other,2000,2000,2000
+Punhana,4/15/2024,2,Other,2000,2000,2000
+Punhana,4/16/2024,2.6,Other,2000,2000,2000
+Punhana,4/17/2024,2.5,Other,2000,2000,2000
+Punhana,4/21/2024,1.9,Other,1500,1500,1500
+Punhana,4/22/2024,2.8,Other,1500,1500,1500
+Punhana,4/24/2024,1.7,Other,1500,1500,1500
+Punhana,4/25/2024,2.3,Other,1500,1500,1500
+Punhana,4/26/2024,3.3,Other,1500,1500,1500
+Punhana,4/28/2024,2.4,Other,1500,1500,1500
+Punhana,4/29/2024,2.3,Other,1500,1500,1500
+Radaur,4/1/2024,12,Other,1500,2000,1800
+Radaur,4/2/2024,10,Other,1800,2200,2000
+Radaur,4/3/2024,14,Other,1500,2000,1800
+Radaur,4/4/2024,12,Other,1800,2000,1900
+Radaur,4/5/2024,10,Other,1200,1800,1500
+Radaur,4/6/2024,12,Other,1500,2000,1800
+Radaur,4/8/2024,11,Other,1200,1800,1500
+Radaur,4/9/2024,14,Other,1500,2000,1800
+Radaur,4/10/2024,12,Other,1500,2000,1800
+Radaur,4/11/2024,14,Other,1800,2000,1900
+Radaur,4/12/2024,10,Other,1800,2200,2000
+Radaur,4/13/2024,12,Other,1200,1800,1500
+Radaur,4/15/2024,10,Other,1500,2000,1800
+Radaur,4/16/2024,6,Other,1200,1800,1500
+Radaur,4/17/2024,9,Other,2000,2000,2000
+Radaur,4/18/2024,8,Other,1800,2000,1900
+Radaur,4/19/2024,10,Other,1500,2000,1800
+Radaur,4/20/2024,9,Other,1200,1800,1500
+Radaur,4/22/2024,10,Other,1500,1800,1600
+Radaur,4/23/2024,11,Other,1200,1800,1500
+Radaur,4/24/2024,7,Other,1400,2000,1800
+Radaur,4/25/2024,8,Other,1500,2000,1800
+Radaur,4/26/2024,7,Other,2000,2500,2200
+Radaur,4/27/2024,8,Other,1500,2000,1800
+Radaur,4/29/2024,10,Other,1200,1500,1400
+Radaur,4/30/2024,8,Other,1000,1400,1200
+Raipur Rai,4/2/2024,0.12,Other,1500,2000,1500
+Raipur Rai,4/3/2024,0.09,Other,1500,1700,1500
+Raipur Rai,4/4/2024,0.1,Other,1500,2000,1500
+Raipur Rai,4/5/2024,0.15,Other,1200,1500,1200
+Raipur Rai,4/6/2024,0.15,Other,1500,1600,1500
+Raipur Rai,4/7/2024,0.1,Other,1400,1600,1400
+Raipur Rai,4/8/2024,0.07,Other,1500,3000,1500
+Raipur Rai,4/9/2024,0.12,Other,1500,1800,1500
+Raipur Rai,4/12/2024,0.1,Other,1200,1400,1200
+Raipur Rai,4/13/2024,0.15,Other,1400,1600,1400
+Raipur Rai,4/14/2024,0.08,Other,1500,1800,1500
+Raipur Rai,4/15/2024,0.08,Other,1500,1600,1500
+Raipur Rai,4/16/2024,0.08,Other,1400,1600,1400
+Raipur Rai,4/17/2024,0.13,Other,1400,1500,1400
+Raipur Rai,4/19/2024,0.11,Other,1500,1800,1500
+Raipur Rai,4/20/2024,0.1,Other,1400,1600,1400
+Raipur Rai,4/21/2024,0.09,Other,1400,1600,1400
+Raipur Rai,4/22/2024,0.07,Other,1400,1600,1400
+Raipur Rai,4/23/2024,0.15,Other,1500,1600,1500
+Raipur Rai,4/24/2024,0.12,Other,1500,1800,1500
+Raipur Rai,4/25/2024,0.13,Other,1500,2000,1500
+Raipur Rai,4/26/2024,0.13,Other,1200,1800,1200
+Raipur Rai,4/27/2024,0.12,Other,1400,1600,1400
+Raipur Rai,4/28/2024,0.25,Other,1400,1600,1400
+Raipur Rai,4/29/2024,0.2,Other,1400,1600,1400
+Raipur Rai,4/30/2024,0.14,Other,1400,1600,1400
+Rania,4/3/2024,0.25,Other,2200,2450,2300
+Rania,4/4/2024,0.2,Other,2100,2300,2200
+Rania,4/5/2024,0.2,Other,1850,2000,1950
+Rania,4/9/2024,0.2,Other,2000,2200,2100
+Rania,4/10/2024,0.15,Other,1880,2000,1990
+Rania,4/12/2024,0.2,Other,2000,2200,2100
+Rania,4/13/2024,0.2,Other,1400,1600,1550
+Rania,4/14/2024,0.15,Other,2200,2500,2450
+Rania,4/15/2024,0.2,Other,1850,2000,1950
+Rania,4/16/2024,0.2,Other,2000,2200,2100
+Rania,4/17/2024,0.2,Other,2200,2400,2300
+Rania,4/18/2024,0.2,Other,1800,2000,1900
+Rania,4/20/2024,0.2,Other,2000,2200,2100
+Rania,4/21/2024,0.15,Other,1750,1900,1850
+Rania,4/22/2024,0.15,Other,1770,1900,1850
+Rania,4/23/2024,0.2,Other,1500,1800,1600
+Rania,4/24/2024,0.2,Other,1770,1900,1850
+Rania,4/25/2024,0.2,Other,2000,2200,2100
+Rania,4/26/2024,0.2,Other,1770,1900,1850
+Rania,4/27/2024,0.2,Other,2300,2500,2400
+Rania,4/28/2024,0.2,Other,1800,2000,1900
+Rania,4/29/2024,0.2,Other,1800,2000,1950
+Rania,4/30/2024,0.2,Other,1800,2000,1900
+Ratia,4/2/2024,1.9,Other,1500,2000,1800
+Ratia,4/3/2024,1.8,Other,1500,2000,1800
+Ratia,4/4/2024,1.92,Other,1600,2000,1800
+Ratia,4/5/2024,1.75,Other,1500,2000,1700
+Ratia,4/6/2024,1.5,Other,1600,1900,1750
+Ratia,4/7/2024,1.5,Other,1300,1800,1500
+Ratia,4/9/2024,2.45,Other,1300,1500,1400
+Ratia,4/10/2024,1.5,Other,1300,1500,1400
+Ratia,4/11/2024,0.9,Other,1800,2900,2500
+Ratia,4/12/2024,1.2,Other,2000,2500,2200
+Ratia,4/13/2024,1.95,Other,2000,2200,2100
+Ratia,4/14/2024,1.05,Other,1600,2100,1900
+Ratia,4/15/2024,1.5,Other,2000,2200,2100
+Ratia,4/16/2024,1.9,Other,1600,2500,2000
+Ratia,4/17/2024,1.95,Other,1000,2000,1500
+Ratia,4/18/2024,1.2,Other,1800,2200,2000
+Ratia,4/19/2024,2.05,Other,1500,2000,1800
+Ratia,4/20/2024,0.9,Other,1500,2100,1800
+Ratia,4/21/2024,0.9,Other,1500,2200,1800
+Ratia,4/22/2024,1.9,Other,2000,2000,2000
+Ratia,4/24/2024,1,Other,1800,2700,2200
+Ratia,4/26/2024,1.6,Other,2200,2800,2600
+Ratia,4/27/2024,2.6,Other,1800,3000,2500
+Ratia,4/28/2024,2.55,Other,1800,2000,1900
+Ratia,4/30/2024,2.12,Other,1600,2100,1800
+Rewari,4/1/2024,14.9,Other,500,2000,1250
+Rewari,4/2/2024,16.6,Other,1000,2500,1750
+Rewari,4/3/2024,11.1,Other,1000,2500,1750
+Rewari,4/4/2024,8,Other,1000,2500,1750
+Rewari,4/5/2024,9.8,Other,1000,2600,1800
+Rewari,4/6/2024,5.1,Other,500,1800,1000
+Rewari,4/7/2024,9.3,Other,800,2200,1300
+Rewari,4/8/2024,8.7,Other,800,2000,1200
+Rewari,4/9/2024,7,Other,500,2000,1200
+Rewari,4/11/2024,11.5,Other,600,2000,1200
+Rewari,4/12/2024,9.3,Other,600,2000,1200
+Rewari,4/13/2024,7.5,Other,600,2000,1200
+Rewari,4/14/2024,19.5,Other,800,2000,1200
+Rewari,4/17/2024,7,Other,600,2000,1300
+Rewari,4/19/2024,9.6,Other,500,1600,1200
+Rewari,4/20/2024,5.1,Other,600,1600,1200
+Rewari,4/22/2024,6.1,Other,500,2000,1200
+Rewari,4/23/2024,6.8,Other,500,2000,1200
+Rewari,4/24/2024,8.5,Other,500,2000,1300
+Rewari,4/25/2024,6.6,Other,500,1500,1000
+Rewari,4/26/2024,5.9,Other,500,2000,1300
+Rewari,4/27/2024,6.6,Other,500,2000,1800
+Rewari,4/28/2024,9,Other,500,2000,1250
+Rohtak,4/3/2024,5.4,Other,500,1000,700
+Rohtak,4/4/2024,8.9,Other,600,1200,800
+Rohtak,4/5/2024,13.9,Other,500,700,600
+Rohtak,4/6/2024,12.2,Other,500,700,600
+Rohtak,4/9/2024,10,Other,600,1000,800
+Rohtak,4/11/2024,7.7,Other,800,1200,1000
+Rohtak,4/16/2024,11.2,Other,600,1000,800
+Rohtak,4/26/2024,22.2,Other,400,600,500
+Rohtak,4/27/2024,22.8,Other,500,700,600
+Rohtak,4/29/2024,14.2,Other,400,600,500
+Rohtak,4/30/2024,21.8,Other,500,800,600
+Sadhaura,4/1/2024,0.8,Tomato,1700,1800,1800
+Sadhaura,4/3/2024,1,Tomato,1800,1800,1800
+Sadhaura,4/4/2024,2,Tomato,1500,1800,1800
+Sadhaura,4/5/2024,2,Tomato,1800,2000,2000
+Sadhaura,4/6/2024,1,Tomato,1800,2000,2000
+Sadhaura,4/9/2024,1,Tomato,1500,1600,1600
+Sadhaura,4/10/2024,1,Tomato,1500,1800,1600
+Sadhaura,4/11/2024,1,Tomato,1300,1500,1400
+Sadhaura,4/12/2024,1.5,Tomato,1500,1600,1600
+Sadhaura,4/13/2024,1,Tomato,1400,1600,1500
+Sadhaura,4/15/2024,1,Tomato,2000,2000,2000
+Sadhaura,4/16/2024,1,Tomato,1500,1800,1600
+Sadhaura,4/18/2024,0.5,Tomato,1500,1700,1600
+Sadhaura,4/19/2024,0.5,Tomato,1500,1700,1600
+Sadhaura,4/20/2024,1,Tomato,2000,2000,2000
+Sadhaura,4/23/2024,1,Tomato,1700,1800,1800
+Sadhaura,4/24/2024,1,Tomato,1800,2000,1900
+Sadhaura,4/25/2024,1,Tomato,2000,2200,2100
+Sadhaura,4/26/2024,0.5,Tomato,1800,1800,1800
+Sadhaura,4/27/2024,1,Tomato,1800,2000,2000
+Sadhaura,4/29/2024,0.5,Tomato,1800,2000,2000
+Sadhaura,4/30/2024,0.5,Tomato,2000,2000,2000
+Safidon,4/1/2024,2.5,Other,1000,1500,1200
+Safidon,4/3/2024,2.1,Other,800,1000,900
+Safidon,4/6/2024,2.1,Other,800,1200,1000
+Safidon,4/7/2024,1.15,Other,1000,1500,1200
+Safidon,4/8/2024,1.66,Other,800,1000,900
+Safidon,4/13/2024,3.1,Other,1200,1800,1500
+Safidon,4/24/2024,2.4,Other,2000,2000,2000
+Safidon,4/25/2024,1.8,Other,1500,2000,1800
+Safidon,4/29/2024,3.34,Other,1200,1500,1400
+Safidon,4/30/2024,2.87,Other,1200,1200,1200
+Samalkha,4/3/2024,3.1,Local,700,1400,1000
+Samalkha,4/4/2024,2.7,Local,1000,1200,1100
+Samalkha,4/6/2024,1.9,Local,1000,1000,1000
+Samalkha,4/7/2024,1.6,Local,1200,1200,1200
+Samalkha,4/9/2024,3.2,Local,1200,1200,1200
+Samalkha,4/15/2024,2.2,Local,1500,1500,1500
+Shahabad,4/1/2024,3.2,Tomato,800,1800,1200
+Shahabad,4/4/2024,1.9,Tomato,1300,1500,1400
+Shahabad,4/5/2024,3.8,Tomato,500,1500,800
+Shahabad,4/6/2024,4.2,Tomato,500,1500,1000
+Shahabad,4/8/2024,2.8,Tomato,1000,1600,1500
+Shahabad,4/9/2024,2.6,Tomato,1200,2000,1400
+Shahabad,4/10/2024,2.75,Tomato,1300,2000,1600
+Shahabad,4/12/2024,2.5,Tomato,1200,2000,1500
+Shahabad,4/13/2024,2.5,Tomato,1200,2500,1600
+Shahabad,4/15/2024,2.4,Tomato,1200,2700,1800
+Shahabad,4/17/2024,2.45,Tomato,1300,2700,2500
+Shahabad,4/18/2024,2.04,Tomato,1200,2700,1500
+Shahabad,4/19/2024,2.15,Tomato,1000,2700,1500
+Shahabad,4/20/2024,2.6,Tomato,1500,2700,2500
+Shahabad,4/22/2024,1.8,Tomato,1500,2700,2500
+Shahabad,4/23/2024,1.4,Tomato,1800,2800,2500
+Shahabad,4/24/2024,2.75,Tomato,1500,3000,2500
+Shahabad,4/25/2024,2.55,Tomato,1500,3000,2500
+Shahabad,4/26/2024,1.95,Tomato,1500,2700,2500
+Shahabad,4/27/2024,3.5,Tomato,1300,2200,2000
+Shahabad,4/29/2024,3.05,Tomato,900,2200,1500
+Shahabad,4/30/2024,3.1,Tomato,1200,2000,1500
+Shahzadpur,4/1/2024,0.86,Local,1500,2000,1500
+Shahzadpur,4/2/2024,0.71,Local,1500,2000,2000
+Shahzadpur,4/3/2024,0.8,Local,1500,2000,1500
+Shahzadpur,4/5/2024,0.92,Local,1000,2000,2000
+Shahzadpur,4/6/2024,0.91,Local,1000,2200,2000
+Shahzadpur,4/8/2024,0.81,Local,1300,2100,1500
+Shahzadpur,4/9/2024,2.2,Local,1000,1200,1000
+Shahzadpur,4/10/2024,0.86,Local,1200,2000,2000
+Shahzadpur,4/11/2024,0.72,Local,1500,2500,2000
+Shahzadpur,4/12/2024,0.4,Local,2000,2500,2500
+Shahzadpur,4/13/2024,0.65,Local,2100,2500,2500
+Shahzadpur,4/15/2024,0.71,Local,2000,2500,2000
+Shahzadpur,4/16/2024,0.51,Local,2000,2000,2000
+Shahzadpur,4/17/2024,0.71,Local,2000,2000,2000
+Shahzadpur,4/18/2024,0.61,Local,1500,2500,2000
+Shahzadpur,4/19/2024,0.36,Local,2000,2600,2000
+Shahzadpur,4/20/2024,0.61,Local,2000,2000,2000
+Shahzadpur,4/22/2024,0.5,Local,1500,2000,2000
+Shahzadpur,4/23/2024,0.2,Local,2000,2000,2000
+Shahzadpur,4/24/2024,0.61,Local,1000,2000,2000
+Shahzadpur,4/25/2024,0.66,Local,2000,2500,2000
+Shahzadpur,4/26/2024,0.61,Local,1500,2000,2000
+Shahzadpur,4/27/2024,0.6,Local,1500,2200,2000
+Shahzadpur,4/29/2024,0.61,Local,1500,2000,2000
+Shahzadpur,4/30/2024,0.75,Local,1500,2000,2000
+Sirsa,4/1/2024,10.9,Other,1200,2000,1800
+Sirsa,4/2/2024,11.8,Other,1000,2000,1700
+Sirsa,4/3/2024,11,Other,1000,2200,1800
+Sirsa,4/4/2024,8.4,Other,800,2000,1700
+Sirsa,4/5/2024,10,Other,800,1800,1500
+Sirsa,4/6/2024,9.3,Other,1000,1600,1300
+Sirsa,4/7/2024,12.5,Other,1000,1700,1400
+Sirsa,4/8/2024,8.5,Other,1000,1700,1300
+Sirsa,4/13/2024,10.5,Other,1300,2000,1800
+Sirsa,4/14/2024,8.2,Other,1400,2000,1750
+Sirsa,4/15/2024,13.3,Other,1400,2000,1800
+Sirsa,4/16/2024,8.9,Other,1500,1800,1650
+Sirsa,4/17/2024,7.9,Other,1000,1700,1500
+Sirsa,4/18/2024,10.6,Other,1000,1800,1700
+Sirsa,4/19/2024,10.4,Other,1200,1800,1700
+Sirsa,4/20/2024,9.6,Other,1200,1800,1600
+Sirsa,4/21/2024,8,Other,1000,2000,1600
+Sirsa,4/22/2024,7,Other,1000,2000,1800
+Sirsa,4/23/2024,4.9,Other,1500,3000,2500
+Sirsa,4/24/2024,10.5,Other,2000,4000,3500
+Sirsa,4/25/2024,11.2,Other,1500,3500,2200
+Sirsa,4/26/2024,8.8,Other,1500,2600,2500
+Sirsa,4/27/2024,11.5,Other,1000,2200,1900
+Sirsa,4/29/2024,11.7,Other,1300,2000,1800
+Sirsa,4/30/2024,13.7,Other,1500,2500,1800
+Siwan,4/1/2024,0.9,Other,1400,1500,1500
+Siwan,4/2/2024,0.8,Other,2000,2100,2000
+Siwan,4/3/2024,0.8,Other,1800,1800,1800
+Siwan,4/4/2024,0.7,Other,1800,1900,1900
+Siwan,4/5/2024,0.7,Other,1400,1500,1500
+Siwan,4/6/2024,0.7,Other,1500,1600,1600
+Siwan,4/7/2024,0.7,Other,1500,1600,1600
+Siwan,4/8/2024,0.4,Other,1500,1700,1700
+Siwan,4/9/2024,0.5,Other,1500,1600,1600
+Siwan,4/10/2024,0.6,Other,2000,2000,2000
+Siwan,4/11/2024,0.6,Other,1500,1600,1500
+Siwan,4/12/2024,0.4,Other,1900,2100,2000
+Siwan,4/13/2024,0.7,Other,1700,1800,1800
+Siwan,4/14/2024,0.9,Other,1500,1600,1600
+Siwan,4/16/2024,0.8,Other,1900,2000,2000
+Siwan,4/17/2024,0.5,Other,2000,2000,2000
+Siwan,4/18/2024,0.8,Other,1400,1500,1500
+Siwan,4/19/2024,1,Other,1700,1800,1800
+Siwan,4/21/2024,0.3,Other,1700,1800,1800
+Siwan,4/22/2024,1.1,Other,1600,2000,1800
+Siwan,4/23/2024,0.5,Other,2000,2000,2000
+Siwan,4/24/2024,0.5,Other,2500,2600,2600
+Siwan,4/25/2024,0.6,Other,2400,2500,2500
+Siwan,4/26/2024,1.2,Other,2400,2500,2500
+Siwan,4/28/2024,0.6,Other,2200,2300,2300
+Siwan,4/29/2024,0.7,Other,1900,2000,2000
+Siwan,4/30/2024,0.7,Other,2400,2600,2500
+Sohna,4/3/2024,3.5,Tomato,2000,2000,2000
+Sohna,4/4/2024,2,Tomato,1500,2000,1800
+Sohna,4/5/2024,1.2,Tomato,1600,2000,1700
+Sohna,4/9/2024,2.6,Tomato,2000,2500,2300
+Sohna,4/10/2024,2.8,Tomato,1900,2000,1950
+Sohna,4/11/2024,2.6,Tomato,2000,2500,2300
+Sohna,4/12/2024,1.1,Tomato,2000,2000,2000
+Sohna,4/14/2024,2.8,Tomato,2500,3000,2800
+Sohna,4/15/2024,3.1,Tomato,2000,3000,2500
+Sohna,4/16/2024,3.6,Tomato,2000,3000,2600
+Sohna,4/17/2024,3.8,Tomato,2000,3000,2500
+Sohna,4/18/2024,3.9,Tomato,2000,3000,2500
+Sohna,4/19/2024,3.05,Tomato,1500,2500,2000
+Sohna,4/20/2024,3.4,Tomato,1500,2500,2000
+Sohna,4/22/2024,3,Tomato,2000,2000,2000
+Sohna,4/23/2024,5,Tomato,1500,2000,1600
+Sohna,4/24/2024,3.3,Tomato,1500,2500,2000
+Sohna,4/25/2024,1.9,Tomato,1500,2000,1800
+Sohna,4/26/2024,4.95,Tomato,1000,2000,1600
+Sohna,4/29/2024,4.3,Tomato,600,2000,1400
+Sohna,4/30/2024,5.1,Tomato,800,2000,1500
+Sonepat,4/2/2024,27.75,Other,1900,2100,2100
+Sonepat,4/4/2024,33.6,Other,1700,2100,2100
+Sonepat,4/5/2024,24.7,Hybrid,2000,2200,2000
+Sonepat,4/6/2024,16.2,Other,2200,2500,2200
+Sonepat,4/7/2024,24.6,Hybrid,1800,2300,1800
+Sonepat,4/8/2024,18.4,Hybrid,2100,2300,2100
+Sonepat,4/9/2024,22.2,Other,2000,2300,2000
+Sonepat,4/11/2024,21.5,Other,2000,2100,2100
+Sonepat,4/13/2024,18.5,Other,2100,2500,2100
+Sonepat,4/14/2024,19.8,Hybrid,2100,2300,2100
+Sonepat,4/19/2024,28.2,Other,1800,2000,1800
+Sonepat,4/22/2024,21.4,Hybrid,1800,2100,1800
+Sonepat,4/24/2024,16.4,Hybrid,2000,2500,2000
+Sonepat,4/25/2024,29,Other,1800,2000,1800
+Sonepat,4/26/2024,35.2,Other,1500,1800,1500
+Sonepat,4/27/2024,2.5,Hybrid,1500,1800,1500
+Sonepat,4/28/2024,35.2,Other,1900,2000,1900
+Sonepat,4/29/2024,46.6,Other,2000,2500,2500
+Sonepat(Kharkhoda),4/2/2024,1.3,Deshi,2000,2000,2000
+Sonepat(Kharkhoda),4/3/2024,0.9,Deshi,1500,2000,1800
+Sonepat(Kharkhoda),4/4/2024,2.7,Deshi,1500,2300,2000
+Sonepat(Kharkhoda),4/5/2024,2.8,Deshi,1500,2000,1700
+Sonepat(Kharkhoda),4/6/2024,4.1,Deshi,1500,2200,1900
+Sonepat(Kharkhoda),4/7/2024,2.7,Deshi,1500,2200,1900
+Sonepat(Kharkhoda),4/8/2024,2.6,Deshi,2000,2300,2100
+Sonepat(Kharkhoda),4/9/2024,2.1,Deshi,2200,2200,2200
+Sonepat(Kharkhoda),4/11/2024,0.6,Deshi,2500,2500,2500
+Sonepat(Kharkhoda),4/12/2024,2.7,Deshi,3000,3200,3100
+Sonepat(Kharkhoda),4/13/2024,3,Deshi,1500,3500,2600
+Sonepat(Kharkhoda),4/14/2024,1.8,Deshi,3500,3500,3500
+Sonepat(Kharkhoda),4/15/2024,2.6,Deshi,3000,3500,3200
+Sonepat(Kharkhoda),4/16/2024,2.1,Deshi,3000,3500,3200
+Sonepat(Kharkhoda),4/17/2024,2.5,Deshi,3000,3500,3200
+Sonepat(Kharkhoda),4/18/2024,2.1,Deshi,2500,3500,3000
+Sonepat(Kharkhoda),4/19/2024,1.5,Deshi,2500,3500,3000
+Sonepat(Kharkhoda),4/20/2024,3.2,Deshi,2200,2500,2400
+Sonepat(Kharkhoda),4/21/2024,2.4,Deshi,2500,2500,2500
+Sonepat(Kharkhoda),4/24/2024,1.2,Deshi,2000,3000,2600
+Sonepat(Kharkhoda),4/25/2024,1.6,Deshi,2000,2500,2200
+Sonepat(Kharkhoda),4/26/2024,0.6,Deshi,2000,2000,2000
+Sonepat(Kharkhoda),4/27/2024,2.3,Deshi,2200,2500,2400
+Sonepat(Kharkhoda),4/30/2024,3.8,Deshi,1400,1400,1400
+Tauru,4/3/2024,1.7,Tomato,1700,2000,1800
+Tauru,4/5/2024,0.3,Tomato,2000,2000,2000
+Tauru,4/6/2024,0.3,Tomato,2000,2000,2000
+Tauru,4/7/2024,1,Tomato,2500,2500,2500
+Tauru,4/8/2024,1,Tomato,2000,2000,2000
+Tauru,4/10/2024,0.6,Tomato,2500,2500,2500
+Tauru,4/13/2024,0.8,Tomato,2000,2000,2000
+Tauru,4/17/2024,0.5,Tomato,2500,2500,2500
+Tauru,4/18/2024,1.3,Tomato,2200,2500,2500
+Tauru,4/19/2024,0.8,Tomato,2000,2000,2000
+Tauru,4/21/2024,0.6,Tomato,2000,2000,2000
+Tauru,4/22/2024,1.3,Tomato,2000,2000,2000
+Tauru,4/26/2024,0.5,Tomato,2000,2000,2000
+Tauru,4/27/2024,0.8,Tomato,2000,2000,2000
+Tauru,4/28/2024,1,Tomato,2000,2000,2000
+Tauru,4/29/2024,1.7,Tomato,1500,2000,1800
+Tauru,4/30/2024,1,Tomato,1500,1500,1500
+Thanesar,4/1/2024,9.4,Tomato,1000,2500,1700
+Thanesar,4/2/2024,10.6,Tomato,1000,2500,1700
+Thanesar,4/3/2024,8.9,Tomato,1000,2500,1800
+Thanesar,4/4/2024,12.4,Tomato,1000,2000,1500
+Thanesar,4/5/2024,10.8,Tomato,1200,2300,1700
+Thanesar,4/8/2024,10.9,Tomato,800,2000,1500
+Thanesar,4/10/2024,8.5,Tomato,1800,3000,2300
+Thanesar,4/11/2024,7.5,Tomato,1600,2600,2100
+Thanesar,4/12/2024,7.6,Tomato,1500,2700,2000
+Thanesar,4/13/2024,10.5,Tomato,1500,2600,2000
+Thanesar,4/15/2024,10.4,Tomato,1000,2500,1700
+Thanesar,4/17/2024,11.2,Tomato,1500,2700,2100
+Thanesar,4/19/2024,13.4,Deshi,1000,2500,1800
+Thanesar,4/20/2024,11.9,Deshi,1200,2700,1800
+Thanesar,4/22/2024,13.2,Deshi,1000,2500,1800
+Thanesar,4/23/2024,9.8,Deshi,2000,3000,2500
+Thanesar,4/24/2024,12.2,Deshi,2500,3000,2700
+Thanesar,4/25/2024,13.5,Tomato,2000,3000,2500
+Thanesar,4/27/2024,17,Deshi,1000,2000,1500
+Thanesar,4/29/2024,17.8,Tomato,500,2000,1200
+Thanesar,4/30/2024,11,Tomato,1000,2000,1500
+Tohana(New Veg Market),4/1/2024,1.8,Tomato,2000,2500,2500
+Tohana(New Veg Market),4/3/2024,2.1,Tomato,2500,2500,2500
+Tohana(New Veg Market),4/5/2024,6.1,Tomato,2500,2500,2500
+Tohana(New Veg Market),4/9/2024,7.2,Tomato,2500,2500,2500
+Tohana(New Veg Market),4/10/2024,5.2,Tomato,2500,2500,2500
+Tohana(New Veg Market),4/11/2024,5.2,Tomato,2500,2500,2500
+Tohana(New Veg Market),4/14/2024,1.5,Tomato,2500,2500,2500
+Tohana(New Veg Market),4/17/2024,5.8,Tomato,2200,2500,2500
+Tohana(New Veg Market),4/18/2024,5.5,Tomato,2200,2700,2500
+Tohana(New Veg Market),4/19/2024,6,Tomato,2500,2700,2500
+Tohana(New Veg Market),4/20/2024,6.2,Tomato,2000,2600,2500
+Tohana(New Veg Market),4/21/2024,6.5,Tomato,1900,2500,2500
+Tohana(New Veg Market),4/22/2024,4.8,Tomato,1900,2650,2500
+Tohana(New Veg Market),4/23/2024,5.6,Tomato,2500,2700,2500
+Tohana(New Veg Market),4/24/2024,5,Tomato,1800,2500,2200
+Tohana(New Veg Market),4/29/2024,6.5,Tomato,2500,2600,2600
+Tohana(New Veg Market),4/30/2024,5.8,Tomato,2000,2650,2500
+Uklana,4/1/2024,0.3,Other,600,1200,1200
+Uklana,4/2/2024,0.4,Other,1600,1600,1600
+Uklana,4/3/2024,0.3,Other,1600,1800,1800
+Uklana,4/5/2024,0.3,Other,600,1200,1200
+Uklana,4/8/2024,0.2,Other,1200,1500,1500
+Uklana,4/9/2024,0.3,Other,600,1200,1200
+Uklana,4/10/2024,0.3,Other,600,1200,1200
+Uklana,4/11/2024,0.3,Other,1600,1600,1600
+Uklana,4/12/2024,0.3,Other,1200,1200,1200
+Uklana,4/14/2024,0.2,Other,1200,1200,1200
+Uklana,4/15/2024,0.2,Other,1200,1300,1300
+Uklana,4/16/2024,0.3,Other,1000,1200,1200
+Uklana,4/18/2024,0.2,Other,1000,1200,1200
+Uklana,4/20/2024,0.3,Other,1000,1200,1200
+Uklana,4/23/2024,0.3,Other,1000,1400,1400
+Uklana,4/24/2024,0.2,Other,1800,2000,2000
+Uklana,4/25/2024,0.2,Other,1600,1800,1800
+Uklana,4/26/2024,0.2,Other,1800,1800,1800
+Uklana,4/27/2024,0.2,Other,1600,1800,1800
+Uklana,4/28/2024,0.2,Other,1800,2000,2000
+Uklana,4/29/2024,0.3,Other,1800,2000,2000
+Uklana,4/30/2024,0.2,Other,1800,1800,1800
